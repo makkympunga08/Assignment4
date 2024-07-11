@@ -173,7 +173,7 @@ class _MyHomePageState extends State<MyHomePage> {
                       ),
                       SizedBox(height: 5),
                       const Text(
-                        'HABIMANA DANIEL',
+                        'ISHIMWE IMMACULEE',
                         style: TextStyle(
                           color: Colors.white,
                           fontSize: 10,
@@ -181,7 +181,7 @@ class _MyHomePageState extends State<MyHomePage> {
                       ),
                       SizedBox(height: 2),
                       const Text(
-                        'HabimanaDaniel2002@gmail.com',
+                        'ishimweimmacule46@gmail.com',
                         style: TextStyle(
                           color: Colors.white,
                           fontSize: 14,
